@@ -1,0 +1,6 @@
+[
+    {
+        "user": "Sushank Ghimire",
+        "balance": 1000
+    }
+]
